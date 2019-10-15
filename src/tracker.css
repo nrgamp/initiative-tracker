@@ -1,0 +1,15 @@
+.tracker {
+  color:#fff;
+}
+.add-new, .clear-all {
+  margin-right:20px;
+}
+.initiative-list {
+  padding:5px;
+  margin-bottom: 0;
+}
+.initiative-list > li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}

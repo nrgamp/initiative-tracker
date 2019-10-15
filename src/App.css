@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -15,6 +16,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+.App-header .col {
+  text-align: center;
+}
+.App-header .col > hr {
+  background-color: #606060;
 }
 
 .App-link {
