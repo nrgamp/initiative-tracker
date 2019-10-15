@@ -1,8 +1,8 @@
 .tracker {
   color:#fff;
 }
-.add-new, .clear-all {
-  margin-right:20px;
+.utility-buttons button {
+  margin: 10px;
 }
 .initiative-list {
   padding:5px;
@@ -12,4 +12,12 @@
   list-style: none;
   padding: 0;
   margin: 0;
+}
+.input-group > .form-control:disabled {
+  background-color: #282c34;
+  color: #fff;
+}
+.tracker-single:first-of-type .input-group> .form-control {
+  background-color: #35B142;
+  color: #fff;
 }
