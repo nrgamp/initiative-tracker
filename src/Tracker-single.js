@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './tracker.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
